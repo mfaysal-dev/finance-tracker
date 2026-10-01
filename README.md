@@ -2,7 +2,7 @@
 
 A premium, privacy-first expense tracker that runs **entirely in your browser**. No accounts, no backend, no API keys — your data lives in `localStorage` and can be exported/imported as JSON.
 
-**Live:** https://finance-tracker-mfaysal-dev.vercel.app (see repo "About" for the current URL)
+**Live:** https://finance-tracker-seven-topaz.vercel.app
 
 ## Features
 - **Transactions** — income & expenses with categories, search, filters, CSV export.
