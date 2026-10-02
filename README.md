@@ -24,3 +24,10 @@ npm run lint
 npm test        # vitest unit tests for the finance engine
 npm run build
 ```
+
+## Author
+
+Built by [Mahir Faysal](https://mfaysal.com), a web developer in Bangladesh.
+
+- Project page: [Hisab on mfaysal.com](https://mfaysal.com/projects/finance-tracker)
+- More projects: [mfaysal.com/projects](https://mfaysal.com/projects) · Blog: [mfaysal.com/blog](https://mfaysal.com/blog)
